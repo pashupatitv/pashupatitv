@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on LLM
 - 📫 How to reach me Email:royaloffice103@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... watching youtube
+- Playing Cricket
+- 
 
 <!---
 pashupatitv/pashupatitv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
